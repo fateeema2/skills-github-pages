@@ -25,7 +25,6 @@ As part of my studies, I’m constantly working on small projects that allow me 
 - **Basic C++ Projects**: Solving problems like creating a calculator, simple games, and data structures.
 - **Web Development**: Exploring HTML, CSS, and JavaScript to build my first websites.
 
-
 I’m excited to continue learning and expanding my skills in programming, web development, and much more!
 
 ## Future Aspirations
@@ -43,5 +42,3 @@ I am always open to connecting with fellow students, professionals, or anyone in
 - **GitHub**: [fateema2]
 
 Thank you for visiting my page. Stay tuned for more updates about my journey in Software Engineering!
-
-
